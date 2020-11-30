@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - hybrid_composition (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - hybrid_composition (from `.symlinks/plugins/hybrid_composition/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  hybrid_composition:
+    :path: ".symlinks/plugins/hybrid_composition/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  hybrid_composition: aad69a1c79c92d8364eb17e3075789c84abb4e1e
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.0
